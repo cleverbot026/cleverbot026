@@ -1,10 +1,13 @@
-### Hello there! I'm James (@cleverbot026) 👋
+#Hello there! I'm James (@cleverbot026) 👋
 
-## I'm a Developer and a Teacher 👨‍💻
+### I'm a Developer and a Teacher 👨‍💻
 
-📌 I like to learn different stuff
-📌 I'm looking forward to contribute more to Open Source projects
+📌 I like to learn different stuff <br/>
+📌 I'm looking forward to contribute more to Open Source projects <br/>
 📌 You play D&D? HMU 🤙
+
+<br/>
+<br/>
 
 ### Connect with me:
 
@@ -24,7 +27,7 @@
 
 <br/>
 
-## Language and Tools
+### Language and Tools
 
 [<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/sublime-text.png"/>][sublime]
 [<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>][html5]
@@ -39,7 +42,7 @@
 [<img align="left" width="30px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>][github]
 
 <br/>
-<br/>
+
 
 [killerbee]: https://ddb.ac/characters/26187755/aJmpqg
 [varys]: https://ddb.ac/characters/26183754/P8egaU
