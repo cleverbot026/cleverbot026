@@ -6,7 +6,6 @@
 📌 I'm looking forward to contribute more to Open Source projects <br/>
 📌 You play D&D? HMU 🤙
 
-<br/>
 
 ### Connect with me:
 
@@ -23,8 +22,6 @@
 [<img width="22px" src="https://img.icons8.com/color/48/000000/illuminati-symbol.png"/>][stephen] Stephen
 <br/>
 [<img width="22px" src="https://img.icons8.com/color/48/000000/mage-staff.png"/>][varys] Varys
-
-<br/>
 
 ### Language and Tools
 
