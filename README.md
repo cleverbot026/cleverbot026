@@ -1,4 +1,4 @@
-#Hello there! I'm James (@cleverbot026) 👋
+# Hello there! I'm James (@cleverbot026) 👋
 
 ### I'm a Developer and a Teacher 👨‍💻
 
@@ -7,11 +7,10 @@
 📌 You play D&D? HMU 🤙
 
 <br/>
-<br/>
 
 ### Connect with me:
 
-[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>][facebook]
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png"/>][twitter]
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>][instagram]
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
