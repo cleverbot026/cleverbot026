@@ -45,11 +45,11 @@
 [varys]: https://ddb.ac/characters/26183754/P8egaU
 [stephen]: https://ddb.ac/characters/26192620/J3MOaO
 
-[facebook]: https:\\fb.me/james.labnao
-[twitter]: https:\\www.twitter.com/jameslovenow
-[instagram]: https:\\www.instagram.com/jameslovenow
-[linkedin]: www.linkedin.com/in/jameslabnao
-[reddit]: https:\\wwww.reddit.com/u/jameslovenow
+[facebook]: https://fb.me/james.labnao
+[twitter]: https://www.twitter.com/jameslovenow
+[instagram]: https://www.instagram.com/jameslovenow
+[linkedin]: https://www.linkedin.com/in/jameslabnao
+[reddit]: https://wwww.reddit.com/u/jameslovenow
 
 [sublime]: https://www.sublimetext.com/
 [html5]: https://www.w3schools.com/html/ 
