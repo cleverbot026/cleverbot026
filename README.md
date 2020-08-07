@@ -1,2 +1,2 @@
-### Hello there! I'm James [cleverbot][website] 👋
+### **Hello there! I'm James** 👋
 
