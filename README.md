@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>][facebook]
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png"/>][twitter]
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>][instagram]
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
+[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>][facebook]
+[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png"/>][twitter]
+[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>][instagram]
+[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/reddit.png"/>][reddit]
 
 ### Check my D&D Characters 🎲
