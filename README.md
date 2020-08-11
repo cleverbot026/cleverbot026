@@ -39,6 +39,7 @@
 
 <br/>
 
+[![cleverbot's github stats](https://github-readme-stats.vercel.app/api?username=cleverbot026)](https://github.com/anuraghazra/github-readme-stats)
 
 [killerbee]: https://ddb.ac/characters/26187755/aJmpqg
 [varys]: https://ddb.ac/characters/26183754/P8egaU
