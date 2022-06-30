@@ -7,39 +7,7 @@
 📌 You play D&D? HMU 🤙
 
 
-### Connect with me:
-
-[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>][facebook]
-[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png"/>][twitter]
-[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>][instagram]
-[<img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/reddit.png"/>][reddit]
-
-### Check my D&D Characters 🎲
-
-[<img width="22px" src="https://img.icons8.com/color/48/000000/katana.png"/>][killerbee] Killer Bee 
-<br/>
-[<img width="22px" src="https://img.icons8.com/color/48/000000/illuminati-symbol.png"/>][stephen] Stephen
-<br/>
-[<img width="22px" src="https://img.icons8.com/color/48/000000/mage-staff.png"/>][varys] Varys
-
-### Language and Tools
-
-[<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/sublime-text.png"/>][sublime]
-[<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>][html5]
-[<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>][css3]
-[<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>][js]
-[<img align="left" width="30px" src="https://img.icons8.com/officel/40/000000/react.png"/>][reactjs]
-[<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>][boot]
-[<img align="left" width="30px" src="https://img.icons8.com/offices/30/000000/php-logo.png"/>][php]
-[<img align="left" width="30px" src="https://img.icons8.com/windows/32/000000/laravel.png"/>][laravel]
-[<img align="left" width="30px" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>][mysql]
-[<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-[<img align="left" width="30px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>][github]
-
-<br/>
-<br/>
-<br/>
+### 
 
 [![cleverbot's github stats](https://github-readme-stats.vercel.app/api?username=cleverbot026)](https://github.com/anuraghazra/github-readme-stats)
 
